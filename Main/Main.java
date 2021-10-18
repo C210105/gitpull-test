@@ -6,9 +6,9 @@ public class Main {
         System.out.println("皆さんこんにちは");
         System.out.println("計算機を作りましょうね");
 
+        //変数宣言する
         int a = 1;
         int b = 20;
-
         int c = 20;
         int d = 100;
 
