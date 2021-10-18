@@ -13,8 +13,10 @@ public class Main {
         int d = 100;
 
 
-        System.out.println("a + b = " + (a + b));
+        System.out.println("a + b = " + (a + b)); //加算
         System.out.println("c - d = " + (c -d)); // 引算追加する
+        System.out.println("a * c = " + (a * c)); //掛算追加する
+        System.out.println("d / b = " + (d / b)); //割算追加する
 
     }
 }
