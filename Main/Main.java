@@ -7,7 +7,7 @@ public class Main {
         System.out.println("計算機を作りましょうね");
 
         Main1 m = new Main1(105, "DANG LONG"); //IDと名前を印刷する
-        m.disPlay();
+        m.disPlay(); //印刷する
 
         //変数宣言する
         int a = 1;

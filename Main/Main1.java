@@ -10,6 +10,7 @@ public class Main1 {
         this.name = name;
     }
 
+    //印刷する
     public void disPlay(){
         System.out.println("ID: " + id);
         System.out.println("NAME: " + name);
