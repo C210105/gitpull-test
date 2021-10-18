@@ -6,12 +6,14 @@ public class Main {
         System.out.println("皆さんこんにちは");
         System.out.println("計算機を作りましょうね");
 
+        Main1 m = new Main1(105, "DANG LONG"); //IDと名前を印刷する
+        m.disPlay();
+
         //変数宣言する
         int a = 1;
         int b = 20;
         int c = 20;
         int d = 100;
-
 
         System.out.println("a + b = " + (a + b)); //加算
         System.out.println("c - d = " + (c -d)); // 引算追加する
