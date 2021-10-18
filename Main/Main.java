@@ -9,7 +9,12 @@ public class Main {
         int a = 1;
         int b = 20;
 
+        int c = 20;
+        int d = 100;
+
+
         System.out.println("a + b = " + (a + b));
+        System.out.println("c - d = " + (c -d)); // 引算追加する
 
     }
 }
