@@ -18,5 +18,7 @@ public class Main {
         System.out.println("a * c = " + (a * c)); //掛算追加する
         System.out.println("d / b = " + (d / b)); //割算追加する
 
+        System.out.println("終わりです。"); //挨拶する追加する
+
     }
 }
